@@ -4,7 +4,7 @@
 
 **Version:** 1.0.1
 
-**Authors:** Surya K, Varghese K James, Sujith M
+**Authors:** Surya K
 
 ---
 
